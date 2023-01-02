@@ -4,7 +4,8 @@
   "description": "This project is going to use html and css sass to clone facebook",
   "main": "index.js",
   "scripts": {
-    "compile-sass": "node-sass sass/main.scss CSS/styles.css -w"
+    "compile-sass": "node-sass sass/main.scss CSS/styles.css -w",
+    "build": "npm run build"
   },
   "author": "MuhammadReza Azimi",
   "license": "ISC",
