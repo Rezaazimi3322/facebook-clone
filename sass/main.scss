@@ -1,0 +1,19 @@
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+@import "base/animations";
+@import "base/base";
+@import "base/typography";
+@import "base/utilities";
+
+@import "base/utilities";
+
+@import "layout/header";
+@import "layout/mainpart";
+@import "layout/left-side";
+@import "layout/right-side";
+@import "layout/container";
+
+
+@import "pages/home";

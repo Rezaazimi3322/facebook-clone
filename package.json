@@ -1,0 +1,14 @@
+{
+  "name": "facebook-clone",
+  "version": "1.0.0",
+  "description": "This project is going to use html and css sass to clone facebook",
+  "main": "index.js",
+  "scripts": {
+    "compile-sass": "node-sass sass/main.scss CSS/styles.css -w"
+  },
+  "author": "MuhammadReza Azimi",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}

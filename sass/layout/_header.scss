@@ -1,0 +1,14 @@
+#header{
+  border: 1px solid black;
+  grid-column: 1 / -1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  background-color: blue;
+  color: white;
+
+}
