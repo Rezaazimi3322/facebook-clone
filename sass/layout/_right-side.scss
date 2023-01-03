@@ -1,11 +1,18 @@
 .rightSide{
     position: fixed;
-    width: 22%;
+    right: 10px;
+    top: 9.5rem;
+    width: 25%;
+    height: 87vh;
     font-size: 3rem;
     overflow-y: auto;
-    right: 0;
-    height: 100%;
-    top: 5.5rem;
-    border: 1px solid black;
+    border: 1px solid blue;
 
 }
+
+
+@media(max-width:900px){
+    .rightSide{
+       display: none;
+    }
+  }
